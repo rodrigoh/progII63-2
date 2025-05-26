@@ -1,4 +1,4 @@
-package aula11.exemploCaneta;
+package aula12.exemploCaneta;
 
 public class Caneta {
 	String fabricante;

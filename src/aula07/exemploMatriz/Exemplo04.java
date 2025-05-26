@@ -1,6 +1,5 @@
 package aula07.exemploMatriz;
 
-import java.security.SecureRandom;
 import java.util.Random;
 
 public class Exemplo04 {
